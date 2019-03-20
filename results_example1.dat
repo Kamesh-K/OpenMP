@@ -1,0 +1,6 @@
+For GRID size = E09
+Without compiler optimization and OMP - 2.15277s
+Without Compiler optimization but OMP - 0.608659s
+With compiler optimization without OMP - 4.8583 E-05
+With compiler optimization and OMP - 0.00520793
+
